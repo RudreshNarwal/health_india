@@ -13,7 +13,7 @@ class _DashboardPageState extends State<DashboardPage> {
       backgroundColor: Colors.white,
       appBar: AppBar(
         title: Text(
-          "Health Pune",
+          "Health India",
           style: TextStyle(
               color: Colors.white, fontSize: 22.0),
         ),
